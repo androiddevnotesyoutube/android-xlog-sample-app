@@ -6,6 +6,16 @@ Sample app for XLog, an Android Logger.
 <br>
 
 <p align="center">
+Written Usage Instructions and Library: https://github.com/elvishew/xLog
+</p>
+<br>
+
+<p align="center">
+Video Usage Instructions on Awesome Dev Notes YouTube: https://youtu.be/FqEHRviO4YM
+</p>
+<br>
+
+<p align="center">
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
